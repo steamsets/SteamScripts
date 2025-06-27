@@ -48,6 +48,10 @@ const sales = {
     summer: 2861690,
     winter: null,
   },
+  2025: {
+    summer: 3558920,
+    winter: null,
+  },
 };
 
 const timeout = 225; // ms (Changed by Nivq & Flo, works fine for 350k+ inventory)
